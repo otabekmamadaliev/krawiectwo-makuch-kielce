@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://otabekmamadaliev.github.io/krawiectwo-makuch-kielce/sitemap.xml
